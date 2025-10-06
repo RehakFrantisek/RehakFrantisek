@@ -1,19 +1,48 @@
-# 💫 About Me:
-🔭 I’m currently working on Bachelor's thesis<br><br>🌱 I’m currently learning Python & SQL<br>
+# 👋 Hi, I'm František Řehák
 
+**Data Analyst / Consultant @ Adastra**  
+Turning business requirements into **data-driven solutions** in Azure: ADF → Synapse/Databricks → Power BI.  
+Final-year **Master’s (Ing.) in Informatics** @ CULS Prague (PEF) – thesis in progress.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frantisek-rehak) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RehakFrantisek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RehakFrantisek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RehakFrantisek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 🧪 Working with: **Azure Data Factory, Synapse, Databricks, Power BI, SQL, Python (pandas)**  
+- 📈 Focus: **ETL/ELT, data modelling, data quality, reporting automation, KPI design**  
+- 🎓 Studying for **Microsoft AZ-900 (in progress)**, **DP-203 (planned)**  
+- 🛠️ Recent: building parameterized ADF pipelines, SQL transformations for unified models, DQ checks, and BI dashboards  
+- 💊 Project highlight: analytics & cloud integration for a leading pharmacy network (**Dr.Max**)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RehakFrantisek&icon=5&color=12)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+- I love making data **reliable, fast, and useful** for business.  
+- Strong hands-on in **SQL** and **Python** (pandas), solid **Azure** stack knowledge.  
+- I care about **clean modelling, validation rules, and performance**.
+
+---
+
+## 🧰 Tech Stack
+
+**Cloud & Data**
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0062AD?logo=microsoft-azure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?logo=azure-synapse-analytics&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)
+
+**Data & Programming**
+![SQL](https://img.shields.io/badge/Advanced_SQL-025E8C?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-000000)
+![JSON](https://img.shields.io/badge/JSON-000000)
+![XML](https://img.shields.io/badge/XML-000000)
+
+**Databases & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitLab_CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
+
+> (Legacy/secondary: Java, Go, HTML/CSS,
