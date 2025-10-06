@@ -1,7 +1,7 @@
 # 👋 Hi, I'm František Řehák
 
 **Data Analyst / Consultant @ Adastra**  
-Turning business requirements into **data-driven solutions** in Azure: ADF → Synapse/Databricks → Power BI.  
+Turning business requirements into **data-driven solutions** in Azure: ADF → Synapse/Databricks -> KPIs.  
 Final-year **Master’s (Ing.) in Informatics** @ CULS Prague (PEF) – thesis in progress.
 
 - 🧪 Working with: **Azure Data Factory, Synapse, Databricks, Power BI, SQL, Python (pandas)**  
@@ -45,4 +45,35 @@ Final-year **Master’s (Ing.) in Informatics** @ CULS Prague (PEF) – thesis i
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitLab_CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
 
-> (Legacy/secondary: Java, Go, HTML/CSS,
+> (Legacy/secondary: Java, Go, HTML/CSS, LaTeX)
+
+---
+
+## 🔭 Selected Work & Projects
+- **Dr.Max – Data Analytics & Cloud Integration (Adastra)**  
+  ADF pipelines (XML/CSV/APIs), SQL modelling in Synapse, DQ checks, performance tuning, Power BI KPIs.
+- **ADF XML → SQL ingestion** (demo patterns) – parameterized datasets, mapping dataflows, validation steps.
+- **Python analytics automation** – pandas pipelines + refresh into BI models.
+
+> Public repos reflect generic patterns & study projects. Client code is private.
+
+---
+
+## 🎓 Education & Certifications
+- **Master’s (Ing.), Informatics – CULS Prague (PEF)** – *final year, thesis in progress*  
+- **Bachelor’s (Bc.), Informatics – Technical University of Liberec**  
+- **Microsoft AZ-900** (in progress) • **DP-203** (planned)
+
+---
+
+## 🌐 Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frantisek-rehak)
+[![Email](https://img.shields.io/badge/Email-fanda.rehak1%40gmail.com-red)](mailto:fanda.rehak1@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=RehakFrantisek&theme=dark&hide_border=false&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RehakFrantisek&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehakFrantisek&theme=dark&hide_border=false&layout=compact)
+
