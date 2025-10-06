@@ -51,7 +51,7 @@ Final-year **Master’s (Ing.) in Informatics** @ CULS Prague (PEF) – thesis i
 
 ## 🔭 Selected Work & Projects
 - **Dr.Max – Data Analytics & Cloud Integration (Adastra)**  
-  ADF pipelines (XML/CSV/APIs), SQL modelling in Synapse, DQ checks, performance tuning, Power BI KPIs.
+  ADF pipelines (XML/CSV/APIs), SQL modelling in Synapse, DQ checks, performance tuning, Business KPIs.
 - **ADF XML → SQL ingestion** (demo patterns) – parameterized datasets, mapping dataflows, validation steps.
 - **Python analytics automation** – pandas pipelines + refresh into BI models.
 
